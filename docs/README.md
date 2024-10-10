@@ -15,6 +15,8 @@
 - Triangle: P = a + b + c
 ```
 
+Here are formulas for finding area and perimeter
+
 # Calls functions examples
 ## Circle
 - area(3) = 28.2743338823....
